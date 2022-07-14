@@ -1,0 +1,9 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "lib-shared": "libs/lib-shared",
+    "todos-react": "apps/todos-react",
+    "todos-react-e2e": "apps/todos-react-e2e"
+  }
+}
